@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { Menu, X } from 'lucide-react';
 import WaitlistForm from './WaitlistForm';
 
+
 const Navigation = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const [isWaitlistOpen, setIsWaitlistOpen] = useState(false);
@@ -13,7 +14,7 @@ const Navigation = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
             <div className="flex items-center space-x-2">
-              <img src="./src/assets/afr.png" alt="Logo" className="w-13 h-12" />
+              <img src="/afr.png" alt="Logo" className="w-13 h-12" />
               <span className="text-xl font-bold text-slate-800">AfradixLink</span>
             </div>
             

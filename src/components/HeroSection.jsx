@@ -58,7 +58,7 @@ const HeroSection = () => {
           <div className="relative">
             <div className="w-full h-100 bg-gradient-to-br from-slate-800 to-slate-900 rounded-2xl flex items-center justify-center relative overflow-hidden">
               <div className="text-center text-white p-8">
-                <img src="./src/assets/afr.png" alt="Logo" className="w-18 h-18 text-center" />
+                <img src="/afr.png" alt="Logo" className="w-18 h-18 text-center" />
                 <h3 className="text-2xl font-bold mb-2">Africa Connected</h3>
                 <p className="text-slate-300">Bridging talent across continents</p>
               </div>

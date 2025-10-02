@@ -45,7 +45,7 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <div className="w-8 h-8 bg-gradient-to-r from-white-300 to-white-500 rounded-lg flex items-center justify-center">
-              <img src="./src/assets/afr.png" alt="Logo" className="w-13 h-8" />
+              <img src="/afr.png" alt="Logo" className="w-13 h-8" />
               </div>
               <span className="text-xl font-bold">AfradixLink</span>
             </div>
